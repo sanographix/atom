@@ -1,0 +1,10 @@
+.apm/
+.node-gyp/
+blob-store/
+compile-cache/
+config.cson
+init.coffee
+packages/
+projects.cson
+recovery/
+storage/
